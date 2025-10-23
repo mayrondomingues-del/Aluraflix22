@@ -1,5 +1,21 @@
 body{
 
     background-color: #f40404;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
 
+}
+h1{
+color: black;
+font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+    border-bottom:yellow;
+    margin:2px;
+    padding;:10px;
+    color:pink;
 }
